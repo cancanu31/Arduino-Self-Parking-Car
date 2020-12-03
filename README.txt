@@ -1,0 +1,3 @@
+-mi am construit masinuta si m am uitat peste cum sa leg firele
+-am inceput implementarea codului
+-urmeaza sa leg firele in zilele urmatoare(dupa ce imi fac rost de pistol de lipit)
