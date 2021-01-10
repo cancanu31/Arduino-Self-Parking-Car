@@ -1,4 +1,2 @@
--am reusit sa fac masina sa mearga si sa conectez firele
--urmeaza ca maine sa mi ajunga si setul de fire mama tata ca sa pot conecta senzorul 
-ultrasonic dupa care incep sa scriu restul de cod 
-
+PROIECTUL ESTE GATA!
+Videoul cu explicatii si functionarea l am incarcat pe youtube si v am atasat linkul in formul creat de dumneavoastra!
